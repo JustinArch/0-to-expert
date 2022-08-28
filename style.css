@@ -1,0 +1,13 @@
+.body-1 {
+    flex: content;
+    background-color: rgb(124, 190, 248);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.p-body {
+    justify-items: flex-start;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    flex: auto;
+}
